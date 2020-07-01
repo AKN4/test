@@ -3,3 +3,6 @@ def carpma (x,y):
 
 def selamver ():
     print ("selam !")
+
+def toplama(a+b):
+    return (a+b)
